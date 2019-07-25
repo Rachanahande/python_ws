@@ -1,0 +1,15 @@
+1,lakshman,M.Tech,800000,CSE
+2,cakshmi,B.Tech,700000,ISE
+3,bakshman,M.Tech,600000,CSE
+4,fakshman,B.Tech,500000,ISE
+5,aakshman,B.Tech,400000,CSE
+6,pakshman,M.Tech,900000,ISE
+7,kakshman,M.Tech,800000,CSE
+8,dakshman,B.Tech,770000,ECE
+9,jakshman,PHD,1000000,CSE
+10,wakshman,B.Tech,800000,ISE
+11,oakshman,M.Tech,900000,CSE
+12,nakshman,B.Tech,880000,CSE
+13,bakshman,M.Tech,300000,ISE
+14,hakshman,B.Tech,600000,CSE
+15,kakshman,M.Tech,200000,ISE
